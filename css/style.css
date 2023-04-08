@@ -96,8 +96,8 @@ p:first-of-type,a{
 }
 #services li{
     padding: 20px;
-    padding-inline-start: 8%;
-    padding-inline-end: 8%;
+    padding-inline-start: 7%;
+    padding-inline-end: 7%;
     background-color: #ffffff;
     margin: 1px;
     list-style: none;
@@ -105,8 +105,8 @@ p:first-of-type,a{
 }
 #services li:hover{
     padding: 20px;
-    padding-inline-start: 8%;
-    padding-inline-end: 8%;
+    padding-inline-start: 7%;
+    padding-inline-end: 7%;
     background-color: #ff5100;
     margin: 1px;
     list-style: none;
